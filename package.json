@@ -1,0 +1,22 @@
+{
+  "name": "book-keeping-app",
+  "version": "1.0.0",
+  "description": "\"This is a Full Stack Application which perform all the basic CURD Operations and it also has login'register options",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shivam Kumar Singh",
+  "license": "ISC",
+  "dependencies": {
+    "auth-middleware": "^1.0.0",
+    "bcryptjs": "^2.4.3",
+    "concurrently": "^7.6.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-async-handler": "^1.1.4",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.1",
+    "nodemon": "^2.0.21"
+  }
+}
