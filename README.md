@@ -16,7 +16,7 @@
 
 # Live Preview
 
-[Book keeping App](https://i-novotec-book-keeping-app.herokuapp.com/)
+[Book keeping App]
 
 # Backend packages used:
 
